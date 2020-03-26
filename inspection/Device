@@ -1,12 +1,1 @@
-ventID:'',
-    eventDate:'',
-    serialNumber:'',
-    model:'',
-    rackPostion:'',
-    detail:'',
-    imageList: [],
-    //目前只上传一张照片，二期这里要改成三
-    count:1,
-    Device:'',
-    description:'',
-    reportUserInfo:''
+WIFI:T:WPA;P:226567hm***
