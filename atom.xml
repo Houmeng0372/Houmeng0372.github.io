@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>侯萌i🥝</title>
+  
+  
+  <link href="https://www.fomal.cc/atom.xml" rel="self"/>
+  
+  <link href="https://www.fomal.cc/"/>
+  <updated>2024-07-18T03:49:59.045Z</updated>
+  <id>https://www.fomal.cc/</id>
+  
+  <author>
+    <name>侯萌i🥝</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://www.fomal.cc/posts/0.html"/>
+    <id>https://www.fomal.cc/posts/0.html</id>
+    <published>2022-08-08T16:00:00.000Z</published>
+    <updated>2024-07-18T03:49:59.045Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
